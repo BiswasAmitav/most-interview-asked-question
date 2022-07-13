@@ -1,0 +1,18 @@
+https://github.com/BiswasAmitav/most-interview-asked-question.git
+====================================================================
+
+
+
+echo "# most-interview-asked-question" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/BiswasAmitav/most-interview-asked-question.git
+git push -u origin main
+=================================================
+
+
+git remote add origin https://github.com/BiswasAmitav/most-interview-asked-question.git
+git branch -M main
+git push -u origin main
